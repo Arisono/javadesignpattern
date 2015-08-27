@@ -7,7 +7,7 @@ public class Client {
 		for(int i=0;i<5;i++){
 			AppConfig config = AppConfig.getInstance();
 			
-			String paramA = config.getParameterA();
+			String  paramA = config.getParameterA();
 			String paramB = config.getParameterB();
 			
 			System.out.println("i="+i+"paramA="+paramA+",paramB="+paramB);
