@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding/Readme.md=UTF-8
+=======
+encoding/<project>=UTF-8
+>>>>>>> branch 'master' of https://github.com/xzjmyk/javadesignpattern.git
